@@ -7,10 +7,10 @@ The model utilises grid-following inverter models by Rick W. Kenyon from the pub
 The topology of the grid is based on the publication "Battery Energy Storage System for Transient Frequency Enhancement of a Large-Scale Power System" by Ujjwal Datta (doi: 10.1109/AUPEC.2017.8282465).
 
 Reference for associated thesis:
--Title: "Impact of Synthetic inertia on Power System Freuqency Stability"
--Author: Oskari Riihimäki
--Publisher: Aalto University
--Year: 2026
+    Title: "Impact of Synthetic inertia on Power System Freuqency Stability"
+    Author: Oskari Riihimäki
+    Publisher: Aalto University
+    Year: 2026
 
 
 
